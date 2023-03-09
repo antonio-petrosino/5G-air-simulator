@@ -6,6 +6,7 @@
  
 ---
 ### Table of Contents:
+0. Setting Ubuntu 
 1. Getting 5G-air-simulator
 2. Compiling 5G-air-simulator
 3. Running 5G-air-simulator
@@ -13,7 +14,7 @@
 5. How-to Debugging and Logging
 6. Additional Support
 ---
-### 0. Getting Ubuntu
+### 0. Setting Ubuntu 
 Set up your Ubuntu 20.04 LTS.
 
 ### 1. Getting 5G-air-simulator
