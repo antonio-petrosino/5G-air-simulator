@@ -43,6 +43,10 @@ Several scenarios have been developed. To run a simple simulation, you can use t
 For more details about the available scenarios, use
 
 	$ ./5G-air-simulator -h
+	
+For the space-segment basic scenario, use
+	$ ./5G-air-simulator nbCell-Sat-ESA 3 1000 154 1 3 1 240 2048 15 1 0 1
+	
 
 ### 4. Use Advanced Channels
 In order to exploit MIMO and mMIMO capabilities of 5G-air-simulator you need to perform additional steps.
