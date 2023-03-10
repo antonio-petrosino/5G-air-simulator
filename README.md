@@ -18,8 +18,8 @@
 Set up your Ubuntu 20.04 LTS.
 
 ### 1. Getting 5G-air-simulator
-5G-air-simulator is available via Git at [this link][2]. 
-To obtain 5G-air-simulator enter into the your prefered folder and write the following syntax:
+The official project of 5G-air-simulator is available via Git at [this link][2]. 
+To obtain 5G-air-simulator4sat enter into the your prefered folder and write the following syntax:
 
     $ git clone https://github.com/antonio-petrosino/5G-air-simulator.git
 To synchronize the project repository with the local copy, you can run the pull sub-command. The syntax is as follows:
@@ -29,7 +29,11 @@ To synchronize the project repository with the local copy, you can run the pull 
 First, you need to install make utility and the armadillo library.
 On recent Linux systems, you can run:
 
+    $  sudo apt-get update
+    $  sudo apt-get upgrade
+    $  sudo apt-get install build-essential
     $  sudo apt install make libarmadillo-dev
+    
 Then you can build 5G-air-simulator with the following command:
 
 	$ cd 5G-air-simulator; make
