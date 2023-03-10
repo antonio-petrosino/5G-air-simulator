@@ -109,7 +109,7 @@ main (int argc, char *argv[])
 
       if (strcmp(argv[1], "nbCell-Sat-Conf-Paper")==0)
       {
-    	  nbCell_Satellite_Conf_Paper (argc, argv);
+    	  //nbCell_Satellite_Conf_Paper (argc, argv);
       }
 
       if (strcmp(argv[1], "nbCell-Sat-ESA")==0)
