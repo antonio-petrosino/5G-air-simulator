@@ -56,7 +56,7 @@
 #include "scenarios/test-mbsfn.h"
 #include "scenarios/test-unicast.h"
 #include "scenarios/nb-cell-sat.h"
-#include "scenarios/nb-cell-sat-conf-paper.h"
+//include "scenarios/nb-cell-sat-conf-paper.h"
 #include "scenarios/nb-cell-sat-esa.h"
 #include "scenarios/nb-cell-test.h"
 #include "utility/help.h"
